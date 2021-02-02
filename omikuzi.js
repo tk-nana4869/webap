@@ -1,0 +1,2 @@
+var username;
+var userresult;
